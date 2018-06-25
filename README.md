@@ -10,4 +10,5 @@ Angular-nvd3 linePlusBarChart, x axis lables disappear when values are between -
 
 <h2>Link to working example at plunker</h2>
 <a hreaf="http://plnkr.co/edit/nmIpD14S9eNp14mssa8u?p=preview">X axis labels disapper when -1<x<1 </a>
+<br>
 
