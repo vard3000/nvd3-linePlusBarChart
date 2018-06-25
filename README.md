@@ -3,3 +3,7 @@ Angular-nvd3 linePlusBarChart, x axis lables disappear when values are between -
 
 
 <img src="https://i.stack.imgur.com/H4wu1.png" />
+
+<br>
+
+<img src="https://i.stack.imgur.com/qmIl4.png" / > 
